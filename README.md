@@ -15,6 +15,8 @@ A dynamic HTML form incorporating CSS and JavaScript for both sign-in and sign-u
 ## Wrong Inputs
 ![Screenshot 2024-02-22 203236](https://github.com/9643Rafia/FormValidation/assets/158092817/ce057eb8-7162-4a12-b5b6-75d6e7836b8e)
 ## Input Validation
+![Screenshot 2024-02-22 202359](https://github.com/9643Rafia/FormValidation/assets/158092817/91a48830-e5f7-4c43-912a-62844b5b8dec)
+![Screenshot 2024-02-22 203015](https://github.com/9643Rafia/FormValidation/assets/158092817/a851cf6a-325b-4d1d-8777-4af02fe074d4)
 ![Screenshot 2024-02-22 203258](https://github.com/9643Rafia/FormValidation/assets/158092817/110621ec-df72-4adf-a835-76485ae623b2)
 ![Screenshot 2024-02-22 203329](https://github.com/9643Rafia/FormValidation/assets/158092817/e8158e91-f53a-45be-a8b9-a27b2720d154)
 ![Screenshot 2024-02-22 203337](https://github.com/9643Rafia/FormValidation/assets/158092817/ea39d297-d3dd-497a-ae0b-f9cb2f777f6a)

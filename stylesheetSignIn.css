@@ -1,0 +1,69 @@
+body 
+{
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #A7BED3;
+}
+h1
+{
+  text-align: center;
+  color: #323031;
+}
+
+.form2
+{
+  display: flex;
+  margin-top: 10px;
+  justify-content:space-evenly;
+  color: #323031;
+}
+
+.credentials
+{
+  padding: 10px;
+}
+
+.Form
+{
+  padding: 35px;
+  background-color: #C6E2E9;
+  border-radius: 22px;
+}
+  
+input[type="text"],
+input[type="password"] 
+{
+  width: calc(100% - 22px);
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#rmbr
+{
+  padding-left: 8px;
+  margin: revert;
+}
+  
+button {
+  width: 100%;
+  padding: 10px;
+  padding-left: 10px;
+  margin: 30px 0px 0px 0px;
+  background-color: #323031;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+  
+button:hover 
+{
+  background-color:cadetblue;
+}  

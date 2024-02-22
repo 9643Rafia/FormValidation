@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Form</title>
+  <link rel="stylesheet" href="stylesheet.css">
+  <style>
+        a{
+            color: #323031;
+        }
+  </style>
+</head>
+<body>
+    <div class="Form">
+        <form class="signInForm" onsubmit="return SignIn()">
+            <h1>Sign In</h1>
+            <div class="credentials">
+                <label for="username">Username: </label>
+                <input type="text" id="uname_signIn" name="uname" required>
+            </div>
+            <div class="credentials">
+                <label for="password">Password: </label>
+                <input type="password" id="pswd_signIn" name="pswd" required>
+            </div>
+            <label id="rmbr">
+                <input type="checkbox" name="Remember Me" id="rmbr">Remember Me
+            </label>
+            <button type="submit" id="btnSubmit_signIn">Sign In</button>
+            <div class="form2">
+                <h4> Don't have an account? </h4>
+                <a href="signup.html"><h4>SignUp</h4></a>
+            </div>
+            
+        </form>
+    </div>
+</body>
+<script src="/jscript.js"></script>
+</html>
